@@ -1,14 +1,13 @@
 {
-  "main.css": "/CotizadorAutos/static/css/main.694bc286.chunk.css",
-  "main.js": "/CotizadorAutos/static/js/main.48e910a8.chunk.js",
-  "main.js.map": "/CotizadorAutos/static/js/main.48e910a8.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/CotizadorAutos/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/CotizadorAutos/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/CotizadorAutos/static/css/main.1b9e8614.chunk.css",
+  "main.js": "/CotizadorAutos/static/js/main.00d41d42.chunk.js",
+  "main.js.map": "/CotizadorAutos/static/js/main.00d41d42.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/CotizadorAutos/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/CotizadorAutos/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/CotizadorAutos/static/js/runtime~main.78c39880.js",
   "runtime~main.js.map": "/CotizadorAutos/static/js/runtime~main.78c39880.js.map",
-  "static/media/logo.svg": "/CotizadorAutos/static/media/logo.5d5d9eef.svg",
-  "static/css/main.694bc286.chunk.css.map": "/CotizadorAutos/static/css/main.694bc286.chunk.css.map",
+  "static/css/main.1b9e8614.chunk.css.map": "/CotizadorAutos/static/css/main.1b9e8614.chunk.css.map",
   "index.html": "/CotizadorAutos/index.html",
-  "precache-manifest.efd162507f7e1ef2702e33264cc20a7a.js": "/CotizadorAutos/precache-manifest.efd162507f7e1ef2702e33264cc20a7a.js",
+  "precache-manifest.74a1a1f1ef168da8811c05adf37ada12.js": "/CotizadorAutos/precache-manifest.74a1a1f1ef168da8811c05adf37ada12.js",
   "service-worker.js": "/CotizadorAutos/service-worker.js"
 }
